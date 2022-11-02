@@ -1,3 +1,9 @@
+v0.3
+====
+
+ * Update protobuf files from upstream
+ * Update grpc-all and protobuf-java versions
+
 v0.2
 ====
 
